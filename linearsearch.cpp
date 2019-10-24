@@ -1,3 +1,5 @@
+// Program to serach an element in an array using Linear Search Algorithm
+
 #include<iostream>
 using namespace std;
 int Search(int A[],int n,int key)
