@@ -5,6 +5,7 @@ int main()
     int fact,n;
     fact=1;
     cout<<"enter the number for factorial";
+    //factorial
     cin>>n;
     for(int i=1;i<=n;i++)
     {
